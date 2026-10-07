@@ -19,7 +19,7 @@ I graduated with a PhD in Mathematics from Oregon State University, supervised b
 [My PhD dissertation](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/rr172599c) focuses on developing computationally efficient time-stepping methods for the shallow water equations, with the long term goal of speeding up realistic simulations of the ocean and atmosphere at the climate scale.
 By combining a CFL optimized method, a certain operator splitting, and local time-stepping, we achieved a speedup of more than 10x in the US Department of Energy's ocean model, MPAS-Ocean.
 
-As a postdoc at LANL, I've worked on tensor train methods for geophysical fluids, the open-source phase field model for advanced manufacturing [Tusas](https://github.com/chrisknewman/tusas), and written a Python package for building [tensor trains from sparse tensors](https://gitlab.com/jeremy-lilly/sparsett).
+As a postdoc at LANL, I've worked on tensor train methods for geophysical fluids, the open-source phase field model for advanced manufacturing [Tusas](https://github.com/chrisknewman/tusas), and written a Python package for building [tensor trains from sparse tensors](https://gitlab.com/jamie-lilly/sparsett).
 
 Currently, I'm working on applying ML methods, augmented by process-based parameterizations, to missing-physics problems in the ocean.
 We hope to augment existing turbulent vertical mixing parameterizations for temperature and salinity transport in polar ocean regions with models trained on large eddy simulation data..
