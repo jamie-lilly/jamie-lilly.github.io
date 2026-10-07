@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jeremy-lilly.github.io/sitemap.xml
+Sitemap: https://jamie-lilly.github.io/sitemap.xml
